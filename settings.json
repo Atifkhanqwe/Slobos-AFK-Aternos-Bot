@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Nightwing.play.hosting",
-    "port": ,
+    "ip": "62.141.62.27",
+    "port": 50813,
     "version": "",
     "try-creative": false
   },
